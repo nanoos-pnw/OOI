@@ -1,0 +1,96 @@
+2016/06/09 00:28:03.415 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 00:29:20.159 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 00:29:23.644 [ctdbp1:DLOGP3]: 10.0334,  3.61025,    7.332,   54.037, 09 Jun 2016 00:29:24
+2016/06/09 00:31:03.910 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 01:28:05.121 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 01:29:19.509 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 01:29:23.000 [ctdbp1:DLOGP3]: 10.0579,  3.61478,    7.348,   51.973, 09 Jun 2016 01:29:23
+2016/06/09 01:31:02.466 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 02:28:02.493 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 02:29:20.661 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 02:29:24.153 [ctdbp1:DLOGP3]: 10.0882,  3.61481,    7.430,   49.069, 09 Jun 2016 02:29:24
+2016/06/09 02:31:05.009 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 03:28:02.474 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 03:29:21.157 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 03:29:24.649 [ctdbp1:DLOGP3]: 10.1075,  3.61978,    7.370,   53.478, 09 Jun 2016 03:29:25
+2016/06/09 03:31:04.645 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 04:28:04.744 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 04:29:20.593 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 04:29:24.084 [ctdbp1:DLOGP3]: 10.0969,  3.61855,    7.220,   53.062, 09 Jun 2016 04:29:24
+2016/06/09 04:31:04.790 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 05:28:02.472 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 05:29:19.331 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 05:29:22.823 [ctdbp1:DLOGP3]:  9.9644,  3.60754,    7.113,   53.408, 09 Jun 2016 05:29:23
+2016/06/09 05:31:02.960 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 06:28:02.950 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 06:29:19.337 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 06:29:22.829 [ctdbp1:DLOGP3]:  9.9629,  3.60747,    7.300,   55.254, 09 Jun 2016 06:29:23
+2016/06/09 06:31:02.905 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 07:28:04.691 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 07:29:18.487 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 07:29:21.977 [ctdbp1:DLOGP3]: 10.1206,  3.61844,    7.406,   55.983, 09 Jun 2016 07:29:22
+2016/06/09 07:31:02.365 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 08:28:04.037 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 08:29:19.401 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 08:29:22.891 [ctdbp1:DLOGP3]: 10.0165,  3.60519,    7.391,   58.091, 09 Jun 2016 08:29:23
+2016/06/09 08:31:04.878 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 09:28:01.471 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 09:29:19.834 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 09:29:23.326 [ctdbp1:DLOGP3]: 10.5596,  3.64313,    7.278,   61.809, 09 Jun 2016 09:29:23
+2016/06/09 09:31:02.783 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 10:28:06.211 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 10:29:21.096 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 10:29:24.588 [ctdbp1:DLOGP3]: 10.1205,  3.61281,    7.372,   58.695, 09 Jun 2016 10:29:25
+2016/06/09 10:31:05.265 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 11:28:06.114 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 11:29:21.461 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 11:29:24.952 [ctdbp1:DLOGP3]: 10.0575,  3.60996,    7.351,   51.742, 09 Jun 2016 11:29:25
+2016/06/09 11:31:03.769 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 12:28:03.761 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 12:29:19.035 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 12:29:22.528 [ctdbp1:DLOGP3]: 10.1460,  3.62024,    7.387,   44.402, 09 Jun 2016 12:29:22
+2016/06/09 12:31:02.534 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 13:28:02.895 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 13:29:19.836 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 13:29:23.319 [ctdbp1:DLOGP3]:  9.9742,  3.60449,    7.335,   38.774, 09 Jun 2016 13:29:23
+2016/06/09 13:31:04.425 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 14:28:02.332 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 14:29:18.832 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 14:29:22.323 [ctdbp1:DLOGP3]:  9.9711,  3.60414,    7.313,   37.156, 09 Jun 2016 14:29:22
+2016/06/09 14:31:04.308 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 15:28:01.433 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 15:29:18.767 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 15:29:22.258 [ctdbp1:DLOGP3]:  9.8514,  3.60385,    7.192,   37.382, 09 Jun 2016 15:29:22
+2016/06/09 15:31:03.860 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 16:28:04.984 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 16:29:20.030 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 16:29:23.522 [ctdbp1:DLOGP3]:  9.8241,  3.60356,    7.414,   41.336, 09 Jun 2016 16:29:23
+2016/06/09 16:31:05.029 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 17:28:04.030 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 17:29:20.191 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 17:29:23.682 [ctdbp1:DLOGP3]: 10.4397,  3.64129,    7.381,   48.297, 09 Jun 2016 17:29:24
+2016/06/09 17:31:03.237 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 18:28:03.881 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 18:29:20.598 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 18:29:24.089 [ctdbp1:DLOGP3]: 10.2938,  3.62611,    7.310,   54.904, 09 Jun 2016 18:29:24
+2016/06/09 18:31:04.082 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 19:28:03.381 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 19:29:20.521 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 19:29:24.013 [ctdbp1:DLOGP3]: 11.0347,  3.67478,    7.279,   61.959, 09 Jun 2016 19:29:24
+2016/06/09 19:31:02.316 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 20:28:02.964 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 20:29:19.266 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 20:29:22.757 [ctdbp1:DLOGP3]: 10.3086,  3.62272,    7.304,   50.020, 09 Jun 2016 20:29:23
+2016/06/09 20:31:02.742 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 21:28:02.340 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 21:29:20.270 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 21:29:23.761 [ctdbp1:DLOGP3]: 10.1771,  3.61382,    7.320,   43.108, 09 Jun 2016 21:29:24
+2016/06/09 21:31:03.746 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 22:28:02.920 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 22:29:20.502 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 22:29:23.983 [ctdbp1:DLOGP3]: 10.1479,  3.60986,    7.290,   31.861, 09 Jun 2016 22:29:24
+2016/06/09 22:31:03.978 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
+2016/06/09 23:28:03.911 [ctdbp1:DLOGP3]:Logger started: Idle state, without initialize
+2016/06/09 23:29:20.770 [ctdbp1:DLOGP3]:Instrument Started [Power On]
+2016/06/09 23:29:24.261 [ctdbp1:DLOGP3]: 10.0953,  3.60338,    7.262,   24.478, 09 Jun 2016 23:29:24
+2016/06/09 23:31:04.327 [ctdbp1:DLOGP3]:Instrument Stopped [Power Off]
