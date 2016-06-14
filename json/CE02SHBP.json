@@ -1,0 +1,11 @@
+{
+    "CE02SHBP": {
+        "": {
+            "data_logger": "LJ01D",
+            "subtype": null,
+            "depth_m": -80.0,
+            "mfn": false,
+            "deployment": ""
+        }
+    }
+}

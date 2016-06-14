@@ -1,0 +1,18 @@
+{
+    "CE06ISSM": {
+        "ctdbp1": {
+            "data_logger": "dcl16",
+            "subtype": "2",
+            "depth_m": -7.0,
+            "mfn": false,
+            "deployment": "D00004"
+        },
+        "ctdbp2": {
+            "data_logger": "dcl37",
+            "subtype": "2",
+            "depth_m": -29.0,
+            "mfn": true,
+            "deployment": "D00004"
+        }
+    }
+}
