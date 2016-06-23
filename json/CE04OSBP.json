@@ -1,0 +1,11 @@
+{
+    "CE04OSBP": {
+        "": {
+            "data_logger": "LJ01C",
+            "subtype": null,
+            "depth_m": -580.0,
+            "mfn": false,
+            "deployment": ""
+        }
+    }
+}

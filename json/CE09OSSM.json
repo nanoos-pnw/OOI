@@ -1,0 +1,32 @@
+{
+    "CE09OSSM": {
+        "wavss": {
+            "data_logger": "cg_data/dcl12",
+            "subtype": null,
+            "depth_m": 0.0,
+            "mfn": false,
+            "deployment": "D00003"
+        },
+        "metbk": {
+            "data_logger": "cg_data/dcl11",
+            "subtype": null,
+            "depth_m": 0.0,
+            "mfn": false,
+            "deployment": "D00003"
+        },
+        "ctdbp1": {
+            "data_logger": "cg_data/dcl27",
+            "subtype": "1",
+            "depth_m": -7.0,
+            "mfn": false,
+            "deployment": "D00003"
+        },
+        "ctdbp2": {
+            "data_logger": "cg_data/dcl37",
+            "subtype": "2",
+            "depth_m": -540.0,
+            "mfn": true,
+            "deployment": "D00001"
+        }
+    }
+}
