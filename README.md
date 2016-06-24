@@ -1,4 +1,4 @@
-# Ingest and Parse OOI Endurance Array data
+# Ingest and Parse OOI Coastal Endurance Array data
 
 - OOI "raw data" files
   - Description of the "raw data" files, organization:  http://oceanobservatories.org/data/raw-data/
