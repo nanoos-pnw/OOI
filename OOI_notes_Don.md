@@ -41,6 +41,6 @@ Notes:
 
 ### Raw Data Archive
 
-Link to the structure of the Raw Data Archive can be found in this (.tree.html)[https://rawdata.oceanobservatories.org/files/.tree.html]
+Link to the structure of the Raw Data Archive can be found in this [tree.html](https://rawdata.oceanobservatories.org/files/.tree.html)
 
 **Note: It appears that this html is not updated for each deployment.**
