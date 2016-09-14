@@ -1,3 +1,10 @@
+### OOI Listings
+
+- Research Arrays: http://oceanobservatories.org/research-arrays/
+- Sites: http://oceanobservatories.org/site-list/
+- Instruments: http://oceanobservatories.org/instruments/
+- Data Products: http://oceanobservatories.org/data-products/data-products-complete-list/
+
 ### Table of parameters mapping for OA assets
 
 | id  | platform_code | parameters                                                       |
