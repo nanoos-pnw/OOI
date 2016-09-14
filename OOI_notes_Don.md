@@ -15,3 +15,22 @@
 | 570 | CP04OSSM      | temperature; salinity; pH; CO2_air; *CO2_sw(1m)*; CO2_sw(7m)     |
 | 571 | CE07SHSM      | temperature; salinity; pH; CO2_air; *CO2_sw(1m)*                 |
 | 572 | GS01SUMO      | temperature; salinity; pH; CO2_air; *CO2_sw(1m)*; CO2_sw(7m)     |
+
+### OOI Resource Links
+
+- https://marine.rutgers.edu/cool/ooi/uframe-status/viz/json/uframe-instruments-all.json
+- https://ooinet.oceanobservatories.org/api/asset_deployment
+- https://ooinet.oceanobservatories.org/api/uframe/stream
+- https://github.com/adampotocki/ref_des
+- http://uframe-test.ooi.rutgers.edu:12576/sensor/inv/
+- https://github.com/ooi-integration/asset-management
+- https://github.com/kerfoot/ooinet-product-browser/tree/master/www/json/observatoryDataProducts
+- https://github.com/asascience-open/ooi-ui-services
+- https://ooinet.oceanobservatories.org/api/asset_deployment?min=True
+- https://github.com/asascience-open/ooi-ui-services/blob/master/db/ooiui_schema_data.sql
+- https://github.com/asascience-open
+- https://marine.rutgers.edu/cool/ooi/uframe-status/
+- http://ooiufs01.ooi.rutgers.edu:12576/sensor/inv/
+- https://github.com/ooi-data-review/uframe-api
+- https://marine.rutgers.edu/cool/ooi/uframe-status/json/status.json
+- https://ooinet.oceanobservatories.org/api/array
