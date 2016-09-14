@@ -16,6 +16,10 @@
 | 571 | CE07SHSM      | temperature; salinity; pH; CO2_air; *CO2_sw(1m)*                 |
 | 572 | GS01SUMO      | temperature; salinity; pH; CO2_air; *CO2_sw(1m)*; CO2_sw(7m)     |
 
+Notes:
+- *parameter* = This parameter is part of `pCO2a` instrument which measures both CO2 in air and water.
+- **parameter** = This parameter data are recovered from instrument, and are not in situ live stream.
+
 ### OOI Resource Links
 
 - https://marine.rutgers.edu/cool/ooi/uframe-status/viz/json/uframe-instruments-all.json
@@ -34,3 +38,9 @@
 - https://github.com/ooi-data-review/uframe-api
 - https://marine.rutgers.edu/cool/ooi/uframe-status/json/status.json
 - https://ooinet.oceanobservatories.org/api/array
+
+### Raw Data Archive
+
+Link to the structure of the Raw Data Archive can be found in this (.tree.html)[https://rawdata.oceanobservatories.org/files/.tree.html]
+
+**Note: It appears that this html is not updated for each deployment.**
