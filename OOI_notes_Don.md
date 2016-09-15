@@ -1,11 +1,11 @@
-### OOI Listings
+## OOI Listings
 
 - Research Arrays: http://oceanobservatories.org/research-arrays/
 - Sites: http://oceanobservatories.org/site-list/
 - Instruments: http://oceanobservatories.org/instruments/
 - Data Products: http://oceanobservatories.org/data-products/data-products-complete-list/
 
-### Table of parameters mapping for OA assets
+## Table of parameters mapping for OA assets
 
 | id  | platform_code | parameters                                                       |
 |:--- |:------------- |:---------------------------------------------------------------- |
@@ -27,7 +27,7 @@ Notes:
 - *parameter* = This parameter is part of `pCO2a` instrument which measures both CO2 in air and water.
 - **parameter** = This parameter data are recovered from instrument, and are not in situ live stream.
 
-### OOI Resource Links
+## OOI Resource Links
 
 - https://marine.rutgers.edu/cool/ooi/uframe-status/viz/json/uframe-instruments-all.json
 - https://ooinet.oceanobservatories.org/api/asset_deployment
@@ -46,13 +46,13 @@ Notes:
 - https://marine.rutgers.edu/cool/ooi/uframe-status/json/status.json
 - https://ooinet.oceanobservatories.org/api/array
 
-### Raw Data Archive
+## Raw Data Archive
 
 Link to the structure of the Raw Data Archive can be found in this [tree.html](https://rawdata.oceanobservatories.org/files/.tree.html)
 
 **Note: It appears that this html is not updated for each deployment.**
 
-### OOI Data Vocabulary Table
+## OOI Data Vocabulary Table
 
 | Vocab                 | Definition |
 |:--------------------- |:----------- |
@@ -75,3 +75,27 @@ Link to the structure of the Raw Data Archive can be found in this [tree.html](h
 | Telemetered           | Data received through a transmission media over distance. Examples are: surface buoy to satellite, glider to satellite, acoustic modem. Data received through satellite relay or other mechanisms results in “batch” receipt and may be decimated in time. These data have greater latencies than the streaming data. |
 | Uncabled 	            | Any platform (mooring, glider, or profiler) not attached to the electro-optical cable on the west coast |
 | X0000\* 	            | Test data, collected on deck or during integration and burn-in testing. Use at your own risk. |
+
+
+## Email Exchanges
+
+Subject: OOI network-wide platform metadata?
+  - Date: 9/8/2016
+    - Calibration sheets can be found at https://github.com/ooi-integration/asset-management/tree/master/deployment
+    - To parse calibration sheets, a script can be found at https://github.com/ooi-data-review/parse_cal_sheets/blob/master/parse_cal_sheets.py
+
+Subject: OOI data harvesting: working on new instruments (Chl a, pH, pCO2)?
+  - Date: 8/10/2016
+    - the PCO2A sensor makes two measurements (in-air and in-water PCO2). Because this sensor produces PCO2 water observations at about 1 m depth, the coastal surface moorings (CE02, 04, 07 and 09) do not have PCO2W measurements at 7 meters. The inshore moorings on the other hand do have PCO2W measurements at 7 meters.
+  - Date: 8/9/2016
+    - The phsen2 and pco2w2 sensors on the CE01ISSM MFN are missing. These data will be associated with DCL16. I think the reason they are not there now is that right before the mooring was deployed in the spring the DCL died and so the MFN was deployed with internally recording sensors, i.e. we are not getting NRT data from the MFN sensors. Hopefully when CE01ISSM is deployed next month we will have PHSEN and PCO2W data for the MFN. These data will be collected at a depth of 25m.
+  - Date 8/2/2016
+    - Link to updated parser: https://github.com/cwingard/cgsn-parsers/tree/pypi
+    - For the instruments you are after:
+      - Chlorophyll a -- FLORT on the NSIF (DCL16 for CE0[16]ISSM and DCL27 for CE0[2479]*SM. This instrument is the WET Labs ECO Triplet. Data is in raw counts. We will need to work on getting you calibration coefficients.
+      - pH -- PHSEN on the NSIF (as above, except DCL26 for CE0[2479]*SM). This is the Sunburst Sensors SAMI2-pH reporting the data as ASCIIHEX strings. I do have code used to process the data to calculate pH.
+      - pCO2 in water -- PCO2A (on CE0[2479]*SM) and PCO2W (on DCL16 of CE0[16]ISSM) both provide a measurement of pCO2 in water (at 1 m depth and 7 m depth, respectively). The PCO2A (from Pro-Oceanus) data is the most readily available for integration. The PCO2W (from Sunburst Sensors, SAMI2-pCO2) will require further work.
+      - pCO2 in air -- PCO2A (on CE0[2479]*SM) measures the pCO2 in air with intake located slightly less than 2 meters above the surface.
+      - turbidity -- FLORT on the NSIF (as above) measures optical backscatter at 700 nm with the calibration converting the raw counts to m^-1 sr^1. Code does exist to convert this data to particulate backscatter (bb, m^-1).
+
+
