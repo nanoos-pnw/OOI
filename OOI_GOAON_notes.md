@@ -48,9 +48,7 @@ Notes:
 
 ## Raw Data Archive
 
-Link to the structure of the Raw Data Archive can be found in this [tree.html](https://rawdata.oceanobservatories.org/files/.tree.html)
-
-**Note: It appears that this html is not updated for each deployment.**
+Link to the structure of the Raw Data Archive can be found in the html file https://rawdata.oceanobservatories.org/files/.tree.html. **Note: It appears that this html file is not updated for each deployment, and may have some pretty old information.**
 
 ## OOI Data Vocabulary Table
 
