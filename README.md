@@ -1,4 +1,12 @@
-# Ingest and Parse OOI Coastal Endurance ("CE") Array data
+# Various notes
+
+## OOI M2M REST services
+
+- [OOI M2M](http://oceanobservatories.org/ooi-m2m-interface/): OOI Machine-to-Machine (M2M) interface provides programmatic access to OOI data via a RESTful API.
+- [visualoceanpy](https://github.com/lsetiawan/visualoceanpy): Don's Python API to OOI M2M RESTful Web Services.
+
+
+## Ingest and Parse OOI Coastal Endurance ("CE") Array data
 
 - OOI "raw data" files
   - Description of the "raw data" files, organization:  http://oceanobservatories.org/data/raw-data/
