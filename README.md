@@ -1,9 +1,9 @@
 # Various notes
 
-## OOI M2M REST services
+## OOI M2M REST services, including Python access
 
 - [OOI M2M](http://oceanobservatories.org/ooi-m2m-interface/): OOI Machine-to-Machine (M2M) interface provides programmatic access to OOI data via a RESTful API.
-- [visualoceanpy](https://github.com/lsetiawan/visualoceanpy): Don's Python API to OOI M2M RESTful Web Services.
+- [yodapy](https://github.com/cormorack/yodapy): "Your Ocean Data Access in Python". Replaces (I think) the now-deprecated [visualoceanpy](https://github.com/cormorack/visualoceanpy), which was billed as a "Python API to OOI M2M RESTful Web Services".
 
 
 ## Ingest and Parse OOI Coastal Endurance ("CE") Array data
