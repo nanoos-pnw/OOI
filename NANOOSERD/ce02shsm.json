@@ -16,8 +16,8 @@
 					"z_coordinate": 4.7,
 					"decimation_factor": 2,
 					"variable_names": {
-						"northward_wind": "met_windavg_mag_corr_east",
-						"eastward_wind": "met_windavg_mag_corr_north"
+						"northward_wind": "met_windavg_mag_corr_north",
+						"eastward_wind": "met_windavg_mag_corr_east"
 					},
 					"variable_units": {
 						"northward_wind": "m s-1",
