@@ -45,14 +45,18 @@
 				"z_coordinate": -1,
 				"decimation_factor": 1,
 				"variable_names": {
-					"chlorophyll_concentration_in_sea_water": "fluorometric_chlorophyll_a",
-					"colored_dissolved_organic_matter": "fluorometric_cdom",
-					"optical_backscatter": "optical_backscatter"
+					"sea_water_temperature": "temp",
+					"sea_water_salinity": "practical_salinity",
+					"sea_water_electrical_conductivity": "conductivity",
+					"sea_water_pressure": "pressure",
+					"sea_water_density": "density"
 				},
 				"variable_units": {
-					"chlorophyll_concentration_in_sea_water": "ug L-1",
-					"colored_dissolved_organic_matter": "ppb",
-					"optical_backscatter": "m-1"
+					"sea_water_temperature": "degree_C",
+					"sea_water_salinity": "1",
+					"sea_water_electrical_conductivity": "S m-1",
+					"sea_water_pressure": "dbar",
+					"sea_water_density": "kg m-3"
 				}
 			}
 		},
