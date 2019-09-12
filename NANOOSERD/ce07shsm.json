@@ -252,7 +252,7 @@
 					"mole_concentration_of_nitrate_in_sea_water": "salinity_corrected_nitrate"
 				},
 				"variable_units": {
-					"mole_concentration_of_nitrate_in_sea_water": "uMol L-1"
+					"mole_concentration_of_nitrate_in_sea_water": "umol L-1"
 				}
 			},
 			"adcpt": {
