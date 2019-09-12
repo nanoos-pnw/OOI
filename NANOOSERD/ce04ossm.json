@@ -186,7 +186,7 @@
 					"moles_of_oxygen_per_unit_mass_in_sea_water": "dosta_abcdjm_cspp_tc_oxygen"
 				},
 				"variable_units": {
-					"moles_of_oxygen_per_unit_mass_in_sea_water": "umol kg-1"
+					"moles_of_oxygen_per_unit_mass_in_sea_water": "umol L-1"
 				}
 			},
 			"velpt": {
@@ -252,7 +252,7 @@
 					"mole_concentration_of_nitrate_in_sea_water": "salinity_corrected_nitrate"
 				},
 				"variable_units": {
-					"mole_concentration_of_nitrate_in_sea_water": "uMol L-1"
+					"mole_concentration_of_nitrate_in_sea_water": "umol L-1"
 				}
 			},
 			"adcpt": {
