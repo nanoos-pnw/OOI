@@ -274,7 +274,7 @@
 			"ctdbp": {
 				"reference_designator": "CE09OSSM-MFD37-03-CTDBPE000",
 				"erddap_id": "CE09OSSM_MFN_CTDBP_UFRAME",
-				"z_coordinate": -588,
+				"z_coordinate": -542,
 				"variable_names": {
 					"sea_water_temperature": "temp",
 					"sea_water_salinity": "practical_salinity",
@@ -293,7 +293,7 @@
 			"dosta": {
 				"reference_designator": "CE09OSSM-MFD37-03-DOSTAD000",
 				"erddap_id": "CE09OSSM_MFN_DOSTA_UFRAME",
-				"z_coordinate": -588,
+				"z_coordinate": -542,
 				"decimation_factor": 1,
 				"variable_names": {
 					"mass_concentration_of_oxygen_in_sea_water": "dosta_abcdjm_cspp_tc_oxygen"
@@ -305,7 +305,7 @@
 			"phsen": {
 				"reference_designator": "CE09OSSM-MFD35-06-PHSEND000",
 				"erddap_id": "CE09OSSM_MFN_PHSEN_UFRAME",
-				"z_coordinate": -588,
+				"z_coordinate": -542,
 				"decimation_factor": 1,
 				"variable_names": {
 					"sea_water_ph_reported_on_total_scale": "phsen_abcdef_ph_seawater "
@@ -317,7 +317,7 @@
 			"pco2w": {
 				"reference_designator": "CE09OSSM-MFD35-05-PCO2WB000",
 				"erddap_id": "CE09OSSM_MFN_PCO2W_UFRAME",
-				"z_coordinate": -588,
+				"z_coordinate": -542,
 				"decimation_factor": 1,
 				"variable_names": {
 					"partial_pressure_of_carbon_dioxide_in_sea_water": "pco2_seawater"
@@ -329,7 +329,7 @@
 			"presf": {
 				"reference_designator": "CE09OSSM-MFD35-02-PRESFC000",
 				"erddap_id": "CE09OSSM_MFN_PRESF_UFRAME",
-				"z_coordinate": -588,
+				"z_coordinate": -542,
 				"decimation_factor": 1,
 				"variable_names": {
 					"sea_water_pressure_at_sea_floor": "abs_seafloor_pressure"
@@ -341,7 +341,7 @@
 			"vel3d": {
 				"reference_designator": "CE09OSSM-MFD35-01-VEL3DD000",
 				"erddap_id": "CE09OSSM_MFN_VEL3D_UFRAME",
-				"z_coordinate": -588,
+				"z_coordinate": -542,
 				"decimation_factor": 1,
 				"variable_names": {
 					"eastward_sea_water_velocity": "vel3d_c_eastward_turbulent_velocity",
@@ -355,7 +355,7 @@
 			"adcpt": {
 				"reference_designator": "CE09OSSM-MFD35-04-ADCPSJ000",
 				"erddap_id": "CE09OSSM_MFN_ADCPT_UFRAME",
-				"z_coordinate": -588,
+				"z_coordinate": -542,
 				"decimation_factor": 1,
 				"variable_names": {
 					"eastward_sea_water_velocity": "eastward_seawater_velocity",
