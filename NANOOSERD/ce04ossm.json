@@ -3,7 +3,7 @@
 	"current_deployment": {
 		"number": 8,
 		"startdate": "2019-04-20T19:15:42Z",
-		"depth": 588,
+		"depth": 575,
 		"latitude": 44.364880,
 		"longitude": -124.941160
 	},
@@ -183,10 +183,10 @@
 				"z_coordinate": -7,
 				"decimation_factor": 1,
 				"variable_names": {
-					"moles_of_oxygen_per_unit_mass_in_sea_water": "dosta_abcdjm_cspp_tc_oxygen"
+					"mass_concentration_of_oxygen_in_sea_water": "dosta_abcdjm_cspp_tc_oxygen"
 				},
 				"variable_units": {
-					"moles_of_oxygen_per_unit_mass_in_sea_water": "umol L-1"
+					"mass_concentration_of_oxygen_in_sea_water": "umol L-1"
 				}
 			},
 			"velpt": {
