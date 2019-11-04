@@ -1,11 +1,11 @@
 {
 	"mooring_id": "ce06issm",
 	"current_deployment": {
-		"number": 10,
-		"startdate": "2019-04-25T21:53:00Z",
+		"number": 11,
+		"startdate": "2019-10-12T20:18:00Z",
 		"depth": 29,
-		"latitude": 47.13467,
-		"longitude": -124.27100
+		"latitude": 47.13445,
+		"longitude": -124.27087
 	},
 	"nodes": {
 		"buoy": {
