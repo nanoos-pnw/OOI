@@ -1,0 +1,69 @@
+{
+	"mooring_id": "ce02shbp",
+	"current_deployment": {
+		"number": 6,
+		"startdate": "2019-06-23T03:36:00Z",
+		"depth": 80,
+		"latitude": 44.63708,
+		"longitude": -124.30595
+	},
+	"nodes": {
+		"bep": {
+			"ctdbp": {
+				"reference_designator": "CE02SHBP-LJ01D-06-CTDBPN106",
+				"erddap_id": "CE02SHBP_BEP_CTDBP_UFRAME",
+				"z_coordinate": -80,
+				"variable_names": {
+					"sea_water_temperature": "seawater_temperature",
+					"sea_water_salinity": "practical_salinity",
+					"sea_water_electrical_conductivity": "ctdbp_no_seawater_conductivity",
+					"sea_water_pressure": "ctdbp_no_seawater_pressure",
+					"sea_water_density": "density"
+				},
+				"variable_units": {
+					"sea_water_temperature": "degree_C",
+					"sea_water_salinity": "1",
+					"sea_water_electrical_conductivity": "S m-1",
+					"sea_water_pressure": "dbar",
+					"sea_water_density": "kg m-3"
+				}
+			},
+			"dosta": {
+				"reference_designator": "CE02SHBP-LJ01D-06-DOSTAD106",
+				"erddap_id": "CE02SHBP_BEP_DOSTA_UFRAME",
+				"z_coordinate": -80,
+				"decimation_factor": 1,
+				"variable_names": {
+					"mass_concentration_of_oxygen_in_sea_water": "ctd_tc_oxygen"
+				},
+				"variable_units": {
+					"mass_concentration_of_oxygen_in_sea_water": "umol L-1"
+				}
+			},
+			"phsen": {
+				"reference_designator": "CE02SHBP-LJ01D-10-PHSEND103",
+				"erddap_id": "CE02SHBP_BEP_PHSEN_UFRAME",
+				"z_coordinate": -80,
+				"decimation_factor": 1,
+				"variable_names": {
+					"sea_water_ph_reported_on_total_scale": "ph_seawater"
+				},
+				"variable_units": {
+					"sea_water_ph_reported_on_total_scale": "1"
+				}
+			},
+			"pco2w": {
+				"reference_designator": "CE02SHBP-LJ01D-09-PCO2WB103",
+				"erddap_id": "CE02SHBP_BEP_PCO2W_UFRAME",
+				"z_coordinate": -80,
+				"decimation_factor": 1,
+				"variable_names": {
+					"partial_pressure_of_carbon_dioxide_in_sea_water": "pco2_seawater"
+				},
+				"variable_units": {
+					"partial_pressure_of_carbon_dioxide_in_sea_water": "uatm"
+				}
+			}
+		}
+	}
+}
