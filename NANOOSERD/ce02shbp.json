@@ -30,7 +30,7 @@
 			},
 			"dosta": {
 				"reference_designator": "CE02SHBP-LJ01D-06-DOSTAD106",
-				"erddap_id": "CE02SHBP_BEP_DOSTA_UFRAME",
+				"erddap_id": "CE02SHBP_BEP_CTDBP_UFRAME",
 				"z_coordinate": -80,
 				"decimation_factor": 1,
 				"variable_names": {
