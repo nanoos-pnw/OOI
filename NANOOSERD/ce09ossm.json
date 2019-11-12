@@ -296,7 +296,7 @@
 				"z_coordinate": -542,
 				"decimation_factor": 1,
 				"variable_names": {
-					"mass_concentration_of_oxygen_in_sea_water": "dosta_abcdjm_cspp_tc_oxygen"
+					"mass_concentration_of_oxygen_in_sea_water": "dosta_ln_optode_oxygen"
 				},
 				"variable_units": {
 					"mass_concentration_of_oxygen_in_sea_water": "umol L-1"
