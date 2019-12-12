@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "glider_lines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"bbox": [ -128.00001942934, 43.4999896571323, 0, -124.01689269156, 47.9178514362484, 0 ],                                          
+"features": [
+{ "type": "Feature", "properties": { "Name": "GH Shallow Line" }, "bbox": [ -124.9638, 46.8517, 0.0, -124.2717, 47.1333, 0.0 ], "geometry": { "type": "LineString", "coordinates": [ [ -124.2717, 47.1333, 0.0 ], [ -124.9638, 46.8517, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "NH Shallow Line" }, "bbox": [ -124.95, 44.3709, 0.0, -124.0957, 44.6583, 0.0 ], "geometry": { "type": "LineString", "coordinates": [ [ -124.0957, 44.6583, 0.0 ], [ -124.95, 44.6583, 0.0 ], [ -124.948, 44.3709, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Coos Bay Line" }, "bbox": [ -126.0, 43.5, 0.0, -124.3, 43.5, 0.0 ], "geometry": { "type": "LineString", "coordinates": [ [ -124.3, 43.5, 0.0 ], [ -126.0, 43.5, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Cape Falcon Line" }, "bbox": [ -126.0, 45.7833, 0.0, -124.0169, 45.7833, 0.0 ], "geometry": { "type": "LineString", "coordinates": [ [ -124.0169, 45.7833, 0.0 ], [ -126.0, 45.7833, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "La Push Line" }, "bbox": [ -126.0, 47.9167, 0.0, -124.7439, 47.9179, 0.0 ], "geometry": { "type": "LineString", "coordinates": [ [ -124.7439, 47.9179, 0.0 ], [ -126.0, 47.9167, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "126 W Line" }, "bbox": [ -126.0, 43.5, 0.0, -126.0, 47.9167, 0.0 ], "geometry": { "type": "LineString", "coordinates": [ [ -126.0, 47.9167, 0.0 ], [ -126.0, 43.5, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "GH Deep Line" }, "bbox": [ -128.0, 46.9667, 0.0, -124.8413, 46.9667, 0.0 ], "geometry": { "type": "LineString", "coordinates": [ [ -124.8413, 46.9667, 0.0 ], [ -128.0, 46.9667, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "NH Deep Line" }, "bbox": [ -127.9998, 44.6583, 0.0, -124.5767, 44.6584, 0.0 ], "geometry": { "type": "LineString", "coordinates": [ [ -124.5767, 44.6583, 0.0 ], [ -127.9998, 44.6584, 0.0 ] ] } }
+]
+}
