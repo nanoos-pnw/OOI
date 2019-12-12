@@ -1,0 +1,42 @@
+{
+    "glider":"ce_319",
+    "deployment_number":"00008",
+    "gliderdac_erddap_id": "ce_319-20190125T2248-delayed",
+    "deployment_date":"2019-01-25T22:48",
+    "recovery_date":"2019-04-21T07:12",
+    "hydrographic_lines":[
+        "Newport Hydrographic Deep (NHD)"
+    ],
+    "direction_codes": {"NHD -> W": 1, "NHD -> E":  0},
+    "glider_type": "Slocum",
+    "sections": [
+        {
+            "datetime_start": "2019-01-26T21:47:00Z",
+            "datetime_end": "2019-02-07T03:08:00Z",
+            "profile_id_start": 24,
+            "profile_id_end": 130, 
+            "direction": "NHD -> W"
+        },
+        {
+            "datetime_start": "2019-02-07T03:08:00Z",
+            "datetime_end": "2019-02-17T18:56:00Z",
+            "profile_id_start": 131,
+            "profile_id_end": 231, 
+            "direction": "NHD -> E"
+        },
+        {
+            "datetime_start": "2019-02-17T18:56:00Z",
+            "datetime_end": "2019-03-01T03:16:00Z",
+            "profile_id_start": 232,
+            "profile_id_end": 347, 
+            "direction": "NHD -> W"
+        },
+        {
+            "datetime_start": "2019-03-01T03:16:00Z",
+            "datetime_end": "2019-03-12T05:49:00Z",
+            "profile_id_start": 348,
+            "profile_id_end": 445, 
+            "direction": "NHD -> E"
+        }
+    ]
+}
