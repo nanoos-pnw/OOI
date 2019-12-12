@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Glider Lines.kml</name>
+	<open>1</open>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7fff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight3">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle0">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle4">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7fff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight0">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7fff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7fff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_placemark_circle1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight5">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle2">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle6">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle5">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight2">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7fff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_placemark_circle3">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight4">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight6">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7fff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Glider Lines</name>
+		<open>1</open>
+		<Placemark>
+			<name>GH Shallow Line</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-124.2716900919589,47.13333681973717,0 -124.9638348668129,46.85166773293239,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NH Shallow Line</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-124.0956702431874,44.65833359178826,0 -124.9499880010201,44.65831326236343,0 -124.9479706661796,44.37086371174684,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Coos Bay Line</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-124.2999916204159,43.4999896571323,0 -126.0000019877239,43.50000570318174,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Cape Falcon Line</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-124.0168926915602,45.78331732639693,0 -125.9999990479435,45.78332143379527,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>La Push Line</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-124.7438809036791,47.91785143624845,0 -125.9999992113708,47.91665278005512,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>126 W Line</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-125.9999993601712,47.91666053629348,0 -126.0000013842186,43.50000243403365,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>GH Deep Line</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-124.841336250447,46.96666013303882,0 -128.0000194293398,46.96669853917817,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NH Deep Line</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-124.5767261905148,44.65827459070958,0 -127.9998095542319,44.65836470991934,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Folder>
+			<name>Labels</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>Coos Bay</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-124.6544432728118</longitude>
+					<latitude>44.33694806288744</latitude>
+					<altitude>0</altitude>
+					<heading>0.1997995476343214</heading>
+					<tilt>0</tilt>
+					<range>623352.1668820875</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-125.3246179478122,43.49791960527443,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Newport Hydrographic Inshore</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-124.2300470137278</longitude>
+					<latitude>45.75159587675737</latitude>
+					<altitude>0</altitude>
+					<heading>0.4957734472509963</heading>
+					<tilt>0</tilt>
+					<range>634110.953808554</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle5</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-124.4769129504067,44.66090152298555,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Newport Hydrographic Offshore</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-124.2300470137278</longitude>
+					<latitude>45.75159587675737</latitude>
+					<altitude>0</altitude>
+					<heading>0.4957734472509963</heading>
+					<tilt>0</tilt>
+					<range>634110.953808554</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-127.692373625196,44.660782408731,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Push</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-124.1279882992784</longitude>
+					<latitude>47.04952942588797</latitude>
+					<altitude>0</altitude>
+					<heading>0.617809410405628</heading>
+					<tilt>0</tilt>
+					<range>633964.5275461212</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-125.6861093769612,47.92011260985056,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>126° W</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-124.4245563327605</longitude>
+					<latitude>45.91540335392347</latitude>
+					<altitude>0</altitude>
+					<heading>0.3919847357826659</heading>
+					<tilt>0</tilt>
+					<range>634149.4743891987</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle3</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-125.9868863098567,46.33269929535373,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cape Falcon</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-124.5193715396702</longitude>
+					<latitude>46.34891645373276</latitude>
+					<altitude>0</altitude>
+					<heading>0.3303880407299772</heading>
+					<tilt>0</tilt>
+					<range>457412.5983990525</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-125.1748617675265,45.79131669745117,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gray&apos;s Harbor Offshore</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-125.7396205484737</longitude>
+					<latitude>47.04641341684152</latitude>
+					<altitude>0</altitude>
+					<heading>-0.5541653759098669</heading>
+					<tilt>0</tilt>
+					<range>365988.5808078378</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-127.3396537730534,46.97465585342725,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gray&apos;s Harbor Inshore</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-125.4742803751129</longitude>
+					<latitude>46.94827600836179</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3639683319920105</heading>
+					<tilt>0</tilt>
+					<range>257802.9251495845</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle4</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-124.617175684436,46.98540750499296,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
