@@ -8,9 +8,9 @@
         "Newport Hydrographic Deep (NHD)",
         "126 West (126)",
         "Gray's Harbor Deep (GHD)"
-    ]
+    ],
     "direction_codes": {
-        "NHD -> W": 0, "126 -> N": 1
+        "NHD -> W": 0, "126 -> N": 1,
         "GHD -> E": 2, "GHD -> W": 3},
     "glider_type": "Slocum",
     "sections": [
