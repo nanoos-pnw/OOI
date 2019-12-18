@@ -1,6 +1,6 @@
 {
   "hydrographic_line": "Newport Hydrographic Deep (NHD)",
-  "section_files": [
+  "deployment_files": [
     {
       "name": "https://github.com/nanoos-pnw/OOI/blob/master/gliders/ce_319_00008_sections.json",
       "datetime_start": "2019-01-26T21:47:00Z",
