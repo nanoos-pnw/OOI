@@ -5,10 +5,6 @@
     "gliderdac_erddap_id": "ce_382-20190125T2341-delayed",
     "deployment_date":"2019-01-25T23:41",
     "recovery_date":"2019-04-26T15:30",
-    "direction_codes": {
-        "W": 0, "E": 1,
-        "N": 0, "S": 1
-    },
     "sections": {
         "Newport Hydrographic Deep (NHD)": [
             {
