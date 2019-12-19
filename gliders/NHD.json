@@ -1,5 +1,9 @@
 {
   "hydrographic_line": "Newport Hydrographic Deep (NHD)",
+  "direction_codes": {
+    "W": 0, 
+    "E": 1
+  },
   "deployment_files": [
     {
       "is_main_line": true,
