@@ -4,11 +4,11 @@
   "route": [
     {
       "lat": 44.65833, 
-      "lon": -124.57667
-    }, 
+      "lon": -128.00000
+    },
     {
       "lat": 44.65833, 
-      "lon": -128.00000
+      "lon": -124.57667
     }
   ], 
   "nvs_glider_app_url": "http://nvs.nanoos.org/GliderOOINHDeep",
