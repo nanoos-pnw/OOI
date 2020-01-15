@@ -1,5 +1,17 @@
 {
   "hydrographic_line": "Newport Hydrographic Deep (NHD)",
+  "notes": "Also known as Newport NH offshore (lines 4bc). Overlaps with NH inshore. Inshore terminus may be adjusted due to nearshore wave and salinity conditions.",
+  "route": [
+    {
+      "lat": 44.65833, 
+      "lon": -124.57667
+    }, 
+    {
+      "lat": 44.65833, 
+      "lon": -128.00000
+    }
+  ], 
+  "nvs_glider_app_url": "http://nvs.nanoos.org/GliderOOINHDeep",
   "direction_codes": {
     "E": 0,
     "W": 1 
