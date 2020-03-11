@@ -5,6 +5,7 @@
     "gliderdac_erddap_id": "ce_382-20190125T2341-delayed",
     "deployment_date": "2019-01-25T23:41:00Z",
     "recovery_date": "2019-04-26T15:30:00Z",
+    "main_line": "Gray's Harbor Deep (GHD)",
     "sections": {
         "Unclassified": [
             {
