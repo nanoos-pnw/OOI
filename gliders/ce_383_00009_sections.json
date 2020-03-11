@@ -1,0 +1,25 @@
+{
+    "glider":"ce_383",
+    "glider_type": "Slocum",
+    "deployment_number":"00009",
+    "gliderdac_erddap_id": "ce_383-20200220T2031",
+    "deployment_date":"2020-02-20T20:31:00Z",
+    "recovery_date": null,
+    "main_line": "Newport Hydrographic Deep (NHD)",
+    "sections": {
+        "Newport Hydrographic Deep (NHD)": [
+            {
+                "datetime_start": "2020-02-20T20:31:00Z",
+                "datetime_end": "2020-02-20T07:25:48Z",
+                "direction": "W",
+                "is_valid": true
+            },
+            {
+                "datetime_start": "2020-02-20T07:25:48Z",
+                "datetime_end": " ",
+                "direction": "E",
+                "is_valid": true
+            }
+        ]
+    }
+}
