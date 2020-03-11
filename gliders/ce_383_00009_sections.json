@@ -16,7 +16,7 @@
             },
             {
                 "datetime_start": "2020-02-20T07:25:48Z",
-                "datetime_end": " ",
+                "datetime_end": null,
                 "direction": "E",
                 "is_valid": true
             }
