@@ -3,29 +3,34 @@
     "glider_type": "Slocum",
     "deployment_number":"00008",
     "gliderdac_erddap_id": "ce_319-20190125T2248-delayed",
-    "deployment_date":"2019-01-25T22:48",
-    "recovery_date":"2019-04-21T07:12",
+    "deployment_date":"2019-01-25T22:48:00Z",
+    "recovery_date":"2019-04-21T07:12:00Z",
+    "main_line": "Newport Hydrographic Deep (NHD)",
     "sections": {
         "Newport Hydrographic Deep (NHD)": [
             {
                 "datetime_start": "2019-01-26T21:47:00Z",
                 "datetime_end": "2019-02-07T03:08:00Z",
-                "direction": "W"
+                "direction": "W",
+                "is_valid": true
             },
             {
                 "datetime_start": "2019-02-07T03:08:00Z",
                 "datetime_end": "2019-02-17T18:56:00Z",
-                "direction": "E"
+                "direction": "E",
+                "is_valid": true
             },
             {
                 "datetime_start": "2019-02-17T18:56:00Z",
                 "datetime_end": "2019-03-01T03:16:00Z",
-                "direction": "W"
+                "direction": "W",
+                "is_valid": true
             },
             {
                 "datetime_start": "2019-03-01T03:16:00Z",
                 "datetime_end": "2019-03-12T05:49:00Z",
-                "direction": "E"
+                "direction": "E",
+                "is_valid": true
             }
         ]
     }
