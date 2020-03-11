@@ -19,7 +19,7 @@
   "deployment_files": [
     {
       "is_main_line": true,
-      "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/ce_383_00009_sections.json",
+      "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_383_00009_sections.json",
       "datetime_start": "2020-02-20T20:31:00Z",
       "datetime_end": null
     },
