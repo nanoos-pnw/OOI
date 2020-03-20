@@ -10,12 +10,12 @@
         "Newport Hydrographic Deep (NHD)": [
             {
                 "datetime_start": "2020-02-20T20:31:00Z",
-                "datetime_end": "2020-02-20T07:25:48Z",
+                "datetime_end": "2020-03-04T07:23:40Z",
                 "direction": "W",
                 "is_valid": true
             },
             {
-                "datetime_start": "2020-02-20T07:25:48Z",
+                "datetime_start": "2020-03-04T07:23:40Z",
                 "datetime_end": "2020-03-15T18:50:38Z",
                 "direction": "E",
                 "is_valid": true
