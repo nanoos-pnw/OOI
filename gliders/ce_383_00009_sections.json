@@ -22,9 +22,15 @@
             },
             {
                 "datetime_start": "2020-03-15T18:50:38Z",
-                "datetime_end": null,
+                "datetime_end": "2020-03-26T05:17:13Z",
                 "direction": "W",
-                "is_valid": true  
+                "is_valid": true
+            },
+            {
+                "datetime_start": "2020-03-26T05:17:13Z",
+                "datetime_end": null,
+                "direction": "E",
+                "is_valid": true
             }
         ]
     }
