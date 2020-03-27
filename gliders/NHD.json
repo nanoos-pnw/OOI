@@ -18,17 +18,11 @@
   },
   "deployments": [
     {
-      "is_main_line": true,
-      "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_383_00009_sections.json",
-      "datetime_start": "2020-02-20T20:31:00Z",
-      "datetime_end": null
+      "is_main_line": false,
+      "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_382_00005_sections.json",
+      "datetime_start": "2019-01-25T23:49:00Z",
+      "datetime_end": "2019-01-30T13:44:00Z"
     },
-    {
-      "is_main_line": true,
-      "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_312_00007_sections.json",
-      "datetime_start": "2019-06-17T18:41:00Z",
-      "datetime_end": "2019-08-03T00:05:00Z"
-    },    
     {
       "is_main_line": true,
       "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_319_00008_sections.json",
@@ -36,10 +30,16 @@
       "datetime_end": "2019-04-21T07:12:00Z"
     },
     {
-      "is_main_line": false,
-      "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_382_00005_sections.json",
-      "datetime_start": "2019-01-25T23:49:00Z",
-      "datetime_end": "2019-01-30T13:44:00Z"
+      "is_main_line": true,
+      "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_312_00007_sections.json",
+      "datetime_start": "2019-05-15T18:15:00Z",
+      "datetime_end": "2019-08-08T19:02:00Z"
+    },    
+    {
+      "is_main_line": true,
+      "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_383_00009_sections.json",
+      "datetime_start": "2020-02-20T20:31:00Z",
+      "datetime_end": null
     }
   ]
 }
