@@ -16,7 +16,7 @@
     "E": 0,
     "W": 1 
   },
-  "deployment_files": [
+  "deployments": [
     {
       "is_main_line": true,
       "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_383_00009_sections.json",
