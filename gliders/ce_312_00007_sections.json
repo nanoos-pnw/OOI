@@ -3,78 +3,86 @@
     "glider_type": "Slocum",
     "deployment_number":"00007",
     "gliderdac_erddap_id": "ce_312-20190515T1750-delayed",
-    "deployment_date":"2019-05-15T17:50Z",
-    "recovery_date":"2019-08-08T21:23Z",
-    "main_line":"Newport Hydrographic Deep (NHD)",
+    "deployment_date":"2019-05-15T17:50:00Z",
+    "recovery_date":"2019-08-08T21:23:00Z",
+    "main_line": "Newport Hydrographic Deep (NHD)",
     "sections": {
-        "Newport Hydrographic (NH)": [
+        "Newport Hydrographic Deep (NHD)": [
             {
                 "datetime_start": "2019-05-15T18:15:00Z",
                 "datetime_end": "2019-05-21T03:34:00Z",
-                "direction": "W"
+                "direction": "W",
+                "is_valid": true
             },
             {
                 "datetime_start": "2019-06-12T09:30:00Z",
                 "datetime_end": "2019-06-17T18:41:00Z",
-                "direction": "E"
+                "direction": "E",
+                "is_valid": true
+            },
+            {
+                "datetime_start": "2019-06-17T18:41:00Z",
+                "datetime_end": "2019-06-27T22:06:00Z",
+                "direction": "W",
+                "is_valid": true
+            },
+            {
+                "datetime_start": "2019-06-27T22:06:00Z",
+                "datetime_end": "2019-07-10T00:28:00Z",
+                "direction": "E",
+                "is_valid": true
+            },
+            {
+                "datetime_start": "2019-07-10T00:28:00Z",
+                "datetime_end": "2019-07-20T15:30:00Z",
+                "direction": "W",
+                "is_valid": true
+            },
+            {
+                "datetime_start": "2019-07-20T15:30:00Z",
+                "datetime_end": "2019-08-03T00:05:00Z",
+                "direction": "E",
+                "is_valid": true
+            },
+            {
+                "datetime_start": "2019-08-03T00:05:00Z",
+                "datetime_end": "2019-08-04T15:39:00Z",
+                "direction": "W",
+                "is_valid": true
+            },
+            {
+                "datetime_start": "2019-08-04T15:39:00Z",
+                "datetime_end": "2019-08-08T19:02:00Z",
+                "direction": "E",
+                "is_valid": true
             }
         ],
         "126 West (126)": [
             {
                 "datetime_start": "2019-05-21T03:34:00Z",
                 "datetime_end": "2019-05-26T08:24:00Z",
-                "direction": "S"
+                "direction": "S",
+                "is_valid": true
             },
             {
                 "datetime_start": "2019-06-06T21:32:00Z",
                 "datetime_end": "2019-06-12T09:30:00Z",
-                "direction": "N"
+                "direction": "N",
+                "is_valid": true
             }
         ],
         "Coos Bay (CB)": [
             {
                 "datetime_start": "2019-05-26T08:24:00Z",
                 "datetime_end": "2019-05-31T16:05:00Z",
-                "direction": "E"
+                "direction": "E",
+                "is_valid": true
             },
             {
                 "datetime_start": "2019-05-31T16:05:00Z",
                 "datetime_end": "2019-06-06T21:32:00Z",
-                "direction": "W"
-            }
-        ],
-        "Newport Hydrographic Deep (NHD)": [
-            {
-                "datetime_start": "2019-06-17T18:41:00Z",
-                "datetime_end": "2019-06-27T22:06:00Z",
-                "direction": "W"
-            },
-            {
-                "datetime_start": "2019-06-27T22:06:00Z",
-                "datetime_end": "2019-07-10T00:28:00Z",
-                "direction": "E"
-            },
-            {
-                "datetime_start": "2019-07-10T00:28:00Z",
-                "datetime_end": "2019-07-20T15:30:00Z",
-                "direction": "W"
-            },
-            {
-                "datetime_start": "2019-07-20T15:30:00Z",
-                "datetime_end": "2019-08-03T00:05:00Z",
-                "direction": "E"
-            }
-        ],
-        "Newport Hydrographic Shallow (NHS)": [
-            {
-                "datetime_start": "2019-08-03T00:05:00Z",
-                "datetime_end": "2019-08-04T15:39:00Z",
-                "direction": "W"
-            },
-            {
-                "datetime_start": "2019-08-04T15:39:00Z",
-                "datetime_end": "2019-08-08T19:02:00Z",
-                "direction": "E"
+                "direction": "W",
+                "is_valid": true
             }
         ]
     }
