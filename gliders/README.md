@@ -4,11 +4,11 @@
 - NVS-style section file for NHD: [NHD_ce_319_00008_NVSsectionfile.txt](https://github.com/nanoos-pnw/OOI/blob/master/gliders/NHD_ce_319_00008_NVSsectionfile.txt). This file will be generated automatically by NANOOS from the transect and deployment JSON files
 - Deployment file conventions
   1. There is only 1 dictionary key per hydro line in the `sections` dictionary in a deployment section JSON file
-  2. Each line's list has section dictionary entries in chronological order
+  2. Each line's list has section dictionary entries in ascending chronological order
   3. The overall order going across multiple line elements is not necessarily in chronological order
   4. A consequence of 1, 2, and 3 is that there may be a time gap within a hydrographic line's list.
 - Master "transect" (hydrographic line) JSON file conventions
-  1. `deployments` list is in ascending chronological order.
+  1. `deployments` list is in ascending chronological order by `datetime_start`
 - For active deployments, `datetime_end` and `recovery_date` are represented by `null`
 - JSON files are hosted in this github repo as a temporary step during development. Their operational location will be on an OSU server
 
