@@ -10,6 +10,7 @@
 - Master "transect" (hydrographic line) JSON file conventions
   1. `deployments` list is in ascending chronological order.
 - For active deployments, `datetime_end` and `recovery_date` are represented by `null`
+- JSON files are hosted in this github repo as a temporary step during development. Their operational location will be on an OSU server
 
 ## Glider DAC ERDDAP
 - https://gliders.ioos.us/erddap/ (also https://data.ioos.us/gliders/erddap/)
