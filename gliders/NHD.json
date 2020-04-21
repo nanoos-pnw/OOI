@@ -11,7 +11,7 @@
       "lon": -124.57667
     }
   ], 
-  "nvs_glider_app_url": "http://nvs.nanoos.org/GliderOOINHDeep",
+  "nvs_glider_app_url": "http://nvs.nanoos.org/GliderOoiNewportDeep",
   "direction_codes": {
     "E": 0,
     "W": 1 
@@ -19,27 +19,45 @@
   "deployments": [
     {
       "is_main_line": false,
-      "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_382_00005_sections.json",
+      "url": "http://agate.coas.oregonstate.edu/nvs/ooi/gliders/ce_382_00005_sections.json",
       "datetime_start": "2019-01-25T23:49:00Z",
       "datetime_end": "2019-01-30T13:44:00Z"
     },
     {
       "is_main_line": true,
-      "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_319_00008_sections.json",
-      "datetime_start": "2019-01-26T21:47:00Z",
+      "url": "http://agate.coas.oregonstate.edu/nvs/ooi/gliders/ce_319_00008_sections.json",
+      "datetime_start": "2019-01-25T22:48:00Z",
       "datetime_end": "2019-04-21T07:12:00Z"
     },
     {
+      "is_main_line": false,
+      "url": "http://agate.coas.oregonstate.edu/nvs/ooi/gliders/ce_311_00007_sections.json",
+      "datetime_start": "2019-05-03T22:54:00Z",
+      "datetime_end": "2019-05-29T20:42:00Z"
+    },
+    {
       "is_main_line": true,
-      "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_312_00007_sections.json",
+      "url": "http://agate.coas.oregonstate.edu/nvs/ooi/gliders/ce_312_00007_sections.json",
       "datetime_start": "2019-05-15T18:15:00Z",
       "datetime_end": "2019-08-08T19:02:00Z"
     },    
     {
       "is_main_line": true,
-      "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_383_00009_sections.json",
+      "url": "http://agate.coas.oregonstate.edu/nvs/ooi/gliders/ce_384_00007_sections.json",
+      "datetime_start": "2019-08-08T01:37:00Z",
+      "datetime_end": "2019-10-18T17:40:00Z"
+    },
+    {
+      "is_main_line": true,
+      "url": "http://agate.coas.oregonstate.edu/nvs/ooi/gliders/ce_386_00011_sections.json",
+      "datetime_start": "2019-11-21T18:32:00Z",
+      "datetime_end": "2020-01-10T17:44:00Z"
+    },
+    {
+      "is_main_line": true,
+      "url": "http://agate.coas.oregonstate.edu/nvs/ooi/gliders/ce_383_00009_sections.json",
       "datetime_start": "2020-02-20T20:31:00Z",
-      "datetime_end": null
+      "datetime_end": "2020-04-08T22:35:45Z"
     }
   ]
 }
