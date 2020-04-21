@@ -43,7 +43,7 @@
     },    
     {
       "is_main_line": true,
-      "url": "http://agate.coas.oregonstate.edu/nvs/ooi/gliders/ce_384_00007_sections.json",
+      "url": "https://raw.githubusercontent.com/nanoos-pnw/OOI/master/gliders/ce_384_00007_sections.json",
       "datetime_start": "2019-08-08T01:37:00Z",
       "datetime_end": "2019-10-18T17:40:00Z"
     },
