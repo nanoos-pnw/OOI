@@ -7,6 +7,9 @@
   2. Each line's list has section dictionary entries in chronological order
   3. The overall order going across multiple line elements is not necessarily in chronological order
   4. A consequence of 1, 2, and 3 is that there may be a time gap within a hydrographic line's list.
+- Master "transect" (hydrographic line) JSON file conventions
+  1. `deployments` list is in ascending chronological order.
+- For active deployments, `datetime_end` and `recovery_date` are represented by `null`
 
 ## Glider DAC ERDDAP
 - https://gliders.ioos.us/erddap/ (also https://data.ioos.us/gliders/erddap/)
