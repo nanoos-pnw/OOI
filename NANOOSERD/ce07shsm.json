@@ -1,4 +1,5 @@
 {
+	"erddap_url": "https://erddap.dataexplorer.oceanobservatories.org/erddap/tabledap/",
 	"mooring_id": "ce07shsm",
 	"current_deployment": {
 		"number": 10,
@@ -11,7 +12,7 @@
 		"buoy": {
 			"metbk": {
 				"reference_designator": "CE07SHSM-SBD11-06-METBKA000",
-				"erddap_id": "CE07SHSM_BUOY_METBK_UFRAME",
+				"erddap_id": "ooi-ce07shsm-sbd11-06-metbka000",
 				"wind": {
 					"z_coordinate": 4.7,
 					"decimation_factor": 10,
