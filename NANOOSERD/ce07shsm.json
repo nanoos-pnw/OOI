@@ -17,8 +17,8 @@
 					"z_coordinate": 4.7,
 					"decimation_factor": 10,
 					"variable_names": {
-						"northward_wind": "met_windavg_mag_corr_north",
-						"eastward_wind": "met_windavg_mag_corr_east"
+						"northward_wind": "northward_wind",
+						"eastward_wind": "eastward_wind"
 					},
 					"variable_units": {
 						"northward_wind": "m s-1",
@@ -29,7 +29,7 @@
 					"z_coordinate": 4.3,
 					"decimation_factor": 10,
 					"variable_names": {
-						"precipitation": "precipitation"
+						"precipitation": "lwe_thickness_of_precipitation_amount"
 					},
 					"variable_units": {
 						"precipitation": "mm"
@@ -39,7 +39,7 @@
 					"z_coordinate": 4.3,
 					"decimation_factor": 10,
 					"variable_names": {
-						"air_pressure": "barometric_pressure"
+						"air_pressure": "air_pressure"
 					},
 					"variable_units": {
 						"air_pressure": "mbar"
@@ -49,7 +49,7 @@
 					"z_coordinate": 4.3,
 					"decimation_factor": 10,
 					"variable_names": {
-						"shortwave_irradiance": "shortwave_irradiance"
+						"shortwave_irradiance": "netsirr"
 					},
 					"variable_units": {
 						"shortwave_irradiance": "W m-2"
@@ -59,7 +59,7 @@
 					"z_coordinate": 4.3,
 					"decimation_factor": 10,
 					"variable_names": {
-						"longwave_irradiance": "longwave_irradiance"
+						"longwave_irradiance": "netlirr"
 					},
 					"variable_units": {
 						"longwave_irradiance": "W m-2"
