@@ -2,11 +2,11 @@
 	"erddap_url": "https://erddap.dataexplorer.oceanobservatories.org/erddap/tabledap/",
 	"mooring_id": "ce07shsm",
 	"current_deployment": {
-		"number": 10,
-		"startdate": "2019-10-10T21:07:00Z",
+		"number": 13,
+		"startdate": "2021-09-11T16:51:00Z",
 		"depth": 87,
-		"latitude": 46.98408,
-		"longitude": -124.56631
+		"latitude": 46.98792,
+		"longitude": -124.56703
 	},
 	"nodes": {
 		"buoy": {
