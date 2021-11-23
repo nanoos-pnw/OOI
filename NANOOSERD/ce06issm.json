@@ -189,7 +189,7 @@
 			"ctdbp": {
 				"reference_designator": "CE06ISSM-MFD37-03-CTDBPC000",
 				"erddap_id": "ooi-ce06issm-mfd37-03-ctdbpc000",
-				"z_coordinate": -25,
+				"z_coordinate": -29,
 				"variable_names": {
 					"sea_water_temperature": "sea_water_temperature",
 					"sea_water_salinity": "sea_water_practical_salinity",
@@ -208,7 +208,7 @@
 			"dosta": {
 				"reference_designator": "CE06ISSM-MFD37-03-DOSTAD000",
 				"erddap_id": "ooi-ce06issm-mfd37-03-dostad000",
-				"z_coordinate": -25,
+				"z_coordinate": -29,
 				"decimation_factor": 1,
 				"variable_names": {
 					"mass_concentration_of_oxygen_in_sea_water": "mole_concentration_of_dissolved_molecular_oxygen_in_sea_water"
@@ -220,7 +220,7 @@
 			"phsen": {
 				"reference_designator": "CE06ISSM-MFD35-06-PHSEND000",
 				"erddap_id": "ooi-ce06issm-mfd35-06-phsend000",
-				"z_coordinate": -25,
+				"z_coordinate": -29,
 				"decimation_factor": 1,
 				"variable_names": {
 					"sea_water_ph_reported_on_total_scale": "sea_water_ph_reported_on_total_scale"
@@ -232,7 +232,7 @@
 			"pco2w": {
 				"reference_designator": "CE06ISSM-MFD35-05-PCO2WB000",
 				"erddap_id": "ooi-ce06issm-mfd35-05-pco2wb000",
-				"z_coordinate": -25,
+				"z_coordinate": -29,
 				"decimation_factor": 1,
 				"variable_names": {
 					"partial_pressure_of_carbon_dioxide_in_sea_water": "partial_pressure_of_carbon_dioxide_in_sea_water"
@@ -244,7 +244,7 @@
 			"presf": {
 				"reference_designator": "CE06ISSM-MFD35-02-PRESFA000",
 				"erddap_id": "ooi-ce06issm-mfd35-02-presfa000",
-				"z_coordinate": -25,
+				"z_coordinate": -29,
 				"decimation_factor": 1,
 				"variable_names": {
 					"sea_water_pressure_at_sea_floor": "sea_water_pressure_at_sea_floor_tide"
@@ -256,7 +256,7 @@
 			"vel3d": {
 				"reference_designator": "CE06ISSM-MFD35-01-VEL3DD000",
 				"erddap_id": "ooi-ce06issm-mfd35-01-vel3dd000",
-				"z_coordinate": -25,
+				"z_coordinate": -29,
 				"decimation_factor": 1,
 				"variable_names": {
 					"eastward_sea_water_velocity": "eastward_sea_water_velocity",
@@ -270,7 +270,7 @@
 			"adcpt": {
 				"reference_designator": "CE06ISSM-MFD35-04-ADCPTM000",
 				"erddap_id": "ooi-ce06issm-mfd35-04-adcptm000",
-				"z_coordinate": -25,
+				"z_coordinate": -29,
 				"decimation_factor": 1,
 				"variable_names": {
 					"eastward_sea_water_velocity": "eastward_sea_water_velocity",
