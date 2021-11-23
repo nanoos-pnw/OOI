@@ -1,24 +1,26 @@
 {
+	"erddap_url": "https://erddap.dataexplorer.oceanobservatories.org/erddap/tabledap/",
 	"mooring_id": "ce02shbp",
 	"current_deployment": {
-		"number": 6,
-		"startdate": "2019-06-23T03:36:00Z",
+		"number": 8,
+		"startdate": "2021-08-23T19:27:00Z",
 		"depth": 80,
-		"latitude": 44.63708,
-		"longitude": -124.30595
+		"latitude": 44.63720995,
+		"longitude": -124.3054578
 	},
 	"nodes": {
 		"bep": {
 			"ctdbp": {
 				"reference_designator": "CE02SHBP-LJ01D-06-CTDBPN106",
-				"erddap_id": "CE02SHBP_BEP_CTDBP_UFRAME",
+				"erddap_id": "ooi-ce02shbp-lj01d-06-ctdbpn106",
 				"z_coordinate": -80,
+				"decimation_factor": 1,
 				"variable_names": {
-					"sea_water_temperature": "seawater_temperature",
-					"sea_water_salinity": "practical_salinity",
-					"sea_water_electrical_conductivity": "ctdbp_no_seawater_conductivity",
-					"sea_water_pressure": "ctdbp_no_seawater_pressure",
-					"sea_water_density": "density"
+					"sea_water_temperature": "sea_water_temperature",
+					"sea_water_salinity": "sea_water_practical_salinity",
+					"sea_water_electrical_conductivity": "sea_water_electrical_conductivity",
+					"sea_water_pressure": "sea_water_pressure",
+					"sea_water_density": "sea_water_density"
 				},
 				"variable_units": {
 					"sea_water_temperature": "degree_C",
@@ -30,11 +32,11 @@
 			},
 			"dosta": {
 				"reference_designator": "CE02SHBP-LJ01D-06-DOSTAD106",
-				"erddap_id": "CE02SHBP_BEP_CTDBP_UFRAME",
+				"erddap_id": "ooi-ce02shbp-lj01d-06-dostad106",
 				"z_coordinate": -80,
 				"decimation_factor": 1,
 				"variable_names": {
-					"mass_concentration_of_oxygen_in_sea_water": "ctd_tc_oxygen"
+					"mass_concentration_of_oxygen_in_sea_water": "mole_concentration_of_dissolved_molecular_oxygen_in_sea_water"
 				},
 				"variable_units": {
 					"mass_concentration_of_oxygen_in_sea_water": "umol L-1"
@@ -42,11 +44,11 @@
 			},
 			"phsen": {
 				"reference_designator": "CE02SHBP-LJ01D-10-PHSEND103",
-				"erddap_id": "CE02SHBP_BEP_PHSEN_UFRAME",
+				"erddap_id": "ooi-ce02shbp-lj01d-10-phsend103",
 				"z_coordinate": -80,
 				"decimation_factor": 1,
 				"variable_names": {
-					"sea_water_ph_reported_on_total_scale": "ph_seawater"
+					"sea_water_ph_reported_on_total_scale": "sea_water_ph_reported_on_total_scale"
 				},
 				"variable_units": {
 					"sea_water_ph_reported_on_total_scale": "1"
@@ -54,11 +56,11 @@
 			},
 			"pco2w": {
 				"reference_designator": "CE02SHBP-LJ01D-09-PCO2WB103",
-				"erddap_id": "CE02SHBP_BEP_PCO2W_UFRAME",
+				"erddap_id": "ooi-ce02shbp-lj01d-09-pco2wb103",
 				"z_coordinate": -80,
 				"decimation_factor": 1,
 				"variable_names": {
-					"partial_pressure_of_carbon_dioxide_in_sea_water": "pco2_seawater"
+					"partial_pressure_of_carbon_dioxide_in_sea_water": "partial_pressure_of_carbon_dioxide_in_sea_water"
 				},
 				"variable_units": {
 					"partial_pressure_of_carbon_dioxide_in_sea_water": "uatm"
