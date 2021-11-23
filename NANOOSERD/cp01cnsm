@@ -1,0 +1,356 @@
+{
+	"erddap_url": "https://erddap.dataexplorer.oceanobservatories.org/erddap/tabledap/",
+	"mooring_id": "cp01cnsm",
+	"current_deployment": {
+		"number": 15,
+		"startdate": "2021-11-03T14:45:00Z",
+		"depth": 132,
+		"latitude": 40.139823,
+		"longitude": -70.771173	
+	},
+	"nodes": {
+		"buoy": {
+			"metbk": {
+				"reference_designator": "CP01CNSM-SBD11-06-METBKA000",
+				"erddap_id": "ooi-cp01cnsm-sbd11-06-metbka000",
+				"wind": {
+					"z_coordinate": 4.7,
+					"decimation_factor": 10,
+					"variable_names": {
+						"northward_wind": "northward_wind",
+						"eastward_wind": "eastward_wind"
+					},
+					"variable_units": {
+						"northward_wind": "m s-1",
+						"eastward_wind": "m s-1"
+					}
+				},
+				"precip": {
+					"z_coordinate": 4.3,
+					"decimation_factor": 10,
+					"variable_names": {
+						"precipitation": "lwe_thickness_of_precipitation_amount"
+					},
+					"variable_units": {
+						"precipitation": "mm"
+					}
+				},
+				"baro_press": {
+					"z_coordinate": 4.3,
+					"decimation_factor": 10,
+					"variable_names": {
+						"air_pressure": "air_pressure"
+					},
+					"variable_units": {
+						"air_pressure": "mbar"
+					}
+				},
+				"swrad": {
+					"z_coordinate": 4.3,
+					"decimation_factor": 10,
+					"variable_names": {
+						"shortwave_irradiance": "netsirr"
+					},
+					"variable_units": {
+						"shortwave_irradiance": "W m-2"
+					}
+				},
+				"lwrad": {
+					"z_coordinate": 4.3,
+					"decimation_factor": 10,
+					"variable_names": {
+						"longwave_irradiance": "netlirr"
+					},
+					"variable_units": {
+						"longwave_irradiance": "W m-2"
+					}
+				},
+				"air_temp": {
+					"z_coordinate": 4.3,
+					"decimation_factor": 10,
+					"variable_names": {
+						"air_temperature": "air_temperature"
+					},
+					"variable_units": {
+						"air_temperature": "degree_C"
+					}
+				},
+				"rel_humid": {
+					"z_coordinate": 4.3,
+					"decimation_factor": 10,
+					"variable_names": {
+						"relative_humidity": "relative_humidity"
+					},
+					"variable_units": {
+						"relative_humidity": "percent"
+					}
+				},
+				"sbe_37": {
+					"z_coordinate": -1.1,
+					"decimation_factor": 10,
+					"variable_names": {
+						"sea_water_temperature": "sea_surface_temperature",
+						"sea_water_salinity": "sea_water_practical_salinity",
+						"sea_water_electrical_conductivity": "condsrf"
+					},
+					"variable_units": {
+						"sea_water_temperature": "degree_C",
+						"sea_water_salinity": "1",
+						"sea_water_electrical_conductivity": "S m-1"
+					}
+				}
+			},
+			"wavss": {
+				"reference_designator": "CP01CNSM-SBD12-05-WAVSSA000",
+				"erddap_id": "ooi-cp01cnsm-sbd12-05-wavssa000",
+				"z_coordinate": 0,
+				"decimation_factor": 1,
+				"variable_names": {
+					"sea_surface_wave_significant_height": "sea_surface_wave_significant_height",
+					"sea_surface_wave_mean_period": "sea_surface_wave_mean_period ",
+					"sea_surface_wave_peak_period": "sea_surface_wave_significant_period",
+					"sea_surface_wave_from_direction": "sea_surface_wave_to_direction"
+				},
+				"variable_units": {
+					"sea_surface_wave_significant_height": "m",
+					"sea_surface_wave_mean_period": "sec",
+					"sea_surface_wave_peak_period": "sec",
+					"sea_surface_wave_from_direction": "degrees"
+				}
+			},
+			"pco2a": {
+				"reference_designator": "CP01CNSM-SBD12-04-PCO2AA000",
+				"erddap_id": "ooi-cp01cnsm-sbd12-04-pco2aa000",
+				"pco2a_air": {
+					"z_coordinate": 1.85,
+					"decimation_factor": 1,
+					"variable_names": {
+						"partial_pressure_of_carbon_dioxide_in_air": "surface_partial_pressure_of_carbon_dioxide_in_air"
+					},
+					"variable_units": {
+						"partial_pressure_of_carbon_dioxide_in_air": "uatm"
+					}
+				},
+				"pco2a_water": {
+					"z_coordinate": -0.7,
+					"decimation_factor": 1,
+					"variable_names": {
+						"partial_pressure_of_carbon_dioxide_in_sea_water": "surface_partial_pressure_of_carbon_dioxide_in_sea_water"
+					},
+					"variable_units": {
+						"partial_pressure_of_carbon_dioxide_in_sea_water": "uatm"
+					}
+				}
+			}
+		},
+		"nsif": {
+			"ctdbp": {
+				"reference_designator": "CP01CNSM-RID27-03-CTDBPC000",
+				"erddap_id": "ooi-cp01cnsm-rid27-03-ctdbpc000",
+				"z_coordinate": -7,
+				"decimation_factor": 1,
+				"variable_names": {
+					"sea_water_temperature": "sea_water_temperature",
+					"sea_water_salinity": "sea_water_practical_salinity",
+					"sea_water_electrical_conductivity": "sea_water_electrical_conductivity",
+					"sea_water_pressure": "sea_water_pressure",
+					"sea_water_density": "sea_water_density"
+				},
+				"variable_units": {
+					"sea_water_temperature": "degree_C",
+					"sea_water_salinity": "1",
+					"sea_water_electrical_conductivity": "S m-1",
+					"sea_water_pressure": "dbar",
+					"sea_water_density": "kg m-3"
+				}
+			},
+			"dosta": {
+				"reference_designator": "CP01CNSM-RID27-04-DOSTAD000",
+				"erddap_id": "ooi-cp01cnsm-rid27-04-dostad000",
+				"z_coordinate": -7,
+				"decimation_factor": 1,
+				"variable_names": {
+					"mass_concentration_of_oxygen_in_sea_water": "mole_concentration_of_dissolved_molecular_oxygen_in_sea_water"
+				},
+				"variable_units": {
+					"mass_concentration_of_oxygen_in_sea_water": "umol L-1"
+				}
+			},
+			"velpt": {
+				"reference_designator": "CP01CNSM-RID26-04-VELPTA000",
+				"erddap_id": "ooi-cp01cnsm-rid26-04-velpta000",
+				"z_coordinate": -7,
+				"decimation_factor": 1,
+				"variable_names": {
+					"eastward_sea_water_velocity": "eastward_sea_water_velocity",
+					"northward_sea_water_velocity": "northward_sea_water_velocity"
+				},
+				"variable_units": {
+					"eastward_sea_water_velocity": "m s-1",
+					"northward_sea_water_velocity": "m s-1"
+				}
+			},
+			"spkir": {
+				"reference_designator": "CP01CNSM-RID26-08-SPKIRB000",
+				"erddap_id": "ooi-cp01cnsm-rid26-08-spkirb000",
+				"z_coordinate": -7,
+				"decimation_factor": 1,
+				"variable_names": {
+					"downwelling_spectral_irradiance_412nm": "spectir_412nm",
+					"downwelling_spectral_irradiance_443nm": "spectir_443nm",
+					"downwelling_spectral_irradiance_490nm": "spectir_490nm",
+					"downwelling_spectral_irradiance_510nm": "spectir_510nm",
+					"downwelling_spectral_irradiance_555nm": "spectir_555nm",
+					"downwelling_spectral_irradiance_620nm": "spectir_620nm",
+					"downwelling_spectral_irradiance_683nm": "spectir_683nm"
+				},
+				"variable_units": {
+					"downwelling_spectral_irradiance_412nm": "uW cm-2 nm-1",
+					"downwelling_spectral_irradiance_443nm": "uW cm-2 nm-1",
+					"downwelling_spectral_irradiance_490nm": "uW cm-2 nm-1",
+					"downwelling_spectral_irradiance_510nm": "uW cm-2 nm-1",
+					"downwelling_spectral_irradiance_555nm": "uW cm-2 nm-1",
+					"downwelling_spectral_irradiance_620nm": "uW cm-2 nm-1",
+					"downwelling_spectral_irradiance_683nm": "uW cm-2 nm-1"
+				}
+			},
+			"flort": {
+				"reference_designator": "CP01CNSM-RID27-02-FLORTD000",
+				"erddap_id": "ooi-cp01cnsm-rid27-02-flortd000",
+				"z_coordinate": -7,
+				"decimation_factor": 1,
+				"variable_names": {
+					"chlorophyll_concentration_in_sea_water": "mass_concentration_of_chlorophyll_a_in_sea_water",
+					"colored_dissolved_organic_matter": "cdomflo",
+					"optical_backscatter": "flubsct"
+				},
+				"variable_units": {
+					"chlorophyll_concentration_in_sea_water": "ug L-1",
+					"colored_dissolved_organic_matter": "ppb",
+					"optical_backscatter": "m-1"
+				}
+			},
+			"phsen": {
+				"reference_designator": "CP01CNSM-RID26-06-PHSEND000",
+				"erddap_id": "ooi-cp01cnsm-rid26-06-phsend000",
+				"z_coordinate": -7,
+				"decimation_factor": 1,
+				"variable_names": {
+					"sea_water_ph_reported_on_total_scale": "sea_water_ph_reported_on_total_scale"
+				},
+				"variable_units": {
+					"sea_water_ph_reported_on_total_scale": "1"
+				}
+			},
+			"nutnr": {
+				"reference_designator": "CP01CNSM-RID26-07-NUTNRB000",
+				"erddap_id": "ooi-cp01cnsm-rid26-07-nutnrb000",
+				"z_coordinate": -7,
+				"decimation_factor": 1,
+				"variable_names": {
+					"mole_concentration_of_nitrate_in_sea_water": "mole_concentration_of_nitrate_in_sea_water_suna"
+				},
+				"variable_units": {
+					"mole_concentration_of_nitrate_in_sea_water": "umol L-1"
+				}
+			}
+		},
+		"mfn": {
+			"ctdbp": {
+				"reference_designator": "CP01CNSM-MFD37-03-CTDBPD000",
+				"erddap_id": "ooi-cp01cnsm-mfd37-03-ctdbpd000",
+				"z_coordinate": -132,
+				"variable_names": {
+					"sea_water_temperature": "sea_water_temperature",
+					"sea_water_salinity": "sea_water_practical_salinity",
+					"sea_water_electrical_conductivity": "sea_water_electrical_conductivity",
+					"sea_water_pressure": "sea_water_pressure",
+					"sea_water_density": "sea_water_density"
+				},
+				"variable_units": {
+					"sea_water_temperature": "degree_C",
+					"sea_water_salinity": "1",
+					"sea_water_electrical_conductivity": "S m-1",
+					"sea_water_pressure": "dbar",
+					"sea_water_density": "kg m-3"
+				}
+			},
+			"dosta": {
+				"reference_designator": "CP01CNSM-MFD37-04-DOSTAD000",
+				"erddap_id": "ooi-cp01cnsm-mfd37-04-dostad000",
+				"z_coordinate": -132,
+				"decimation_factor": 1,
+				"variable_names": {
+					"mass_concentration_of_oxygen_in_sea_water": "mole_concentration_of_dissolved_molecular_oxygen_in_sea_water"
+				},
+				"variable_units": {
+					"mass_concentration_of_oxygen_in_sea_water": "umol L-1"
+				}
+			},
+			"phsen": {
+				"reference_designator": "CP01CNSM-MFD35-06-PHSEND000",
+				"erddap_id": "ooi-cp01cnsm-mfd35-06-phsend000",
+				"z_coordinate": -132,
+				"decimation_factor": 1,
+				"variable_names": {
+					"sea_water_ph_reported_on_total_scale": "sea_water_ph_reported_on_total_scale"
+				},
+				"variable_units": {
+					"sea_water_ph_reported_on_total_scale": "1"
+				}
+			},
+			"pco2w": {
+				"reference_designator": "CP01CNSM-MFD35-05-PCO2WB000",
+				"erddap_id": "ooi-cp01cnsm-mfd35-05-pco2wb000",
+				"z_coordinate": -132,
+				"decimation_factor": 1,
+				"variable_names": {
+					"partial_pressure_of_carbon_dioxide_in_sea_water": "partial_pressure_of_carbon_dioxide_in_sea_water"
+				},
+				"variable_units": {
+					"partial_pressure_of_carbon_dioxide_in_sea_water": "uatm"
+				}
+			},
+			"presf": {
+				"reference_designator": "CP01CNSM-MFD35-02-PRESFB000",
+				"erddap_id": "ooi-cp01cnsm-mfd35-02-presfb000",
+				"z_coordinate": -132,
+				"decimation_factor": 1,
+				"variable_names": {
+					"sea_water_pressure_at_sea_floor": "sea_water_pressure_at_sea_floor_tide"
+				},
+				"variable_units": {
+					"sea_water_pressure_at_sea_floor": "dbar"
+				}
+			},
+			"velpt": {
+				"reference_designator": "CP01CNSM-MFD35-04-VELPTA000",
+				"erddap_id": "ooi-cp01cnsm-mfd35-04-velpta000",
+				"z_coordinate": -132,
+				"decimation_factor": 1,
+				"variable_names": {
+					"eastward_sea_water_velocity": "eastward_sea_water_velocity",
+					"northward_sea_water_velocity": "northward_sea_water_velocity"
+				},
+				"variable_units": {
+					"eastward_sea_water_velocity": "m s-1",
+					"northward_sea_water_velocity": "m s-1"
+				}
+			},
+			"adcpt": {
+				"reference_designator": "CP01CNSM-MFD35-01-ADCPTF000",
+				"erddap_id": "ooi-cp01cnsm-mfd35-01-adcptf000",
+				"z_coordinate": -132,
+				"decimation_factor": 1,
+				"variable_names": {
+					"eastward_sea_water_velocity": "eastward_sea_water_velocity",
+					"northward_sea_water_velocity": "northward_sea_water_velocity"
+				},
+				"variable_units": {
+					"eastward_sea_water_velocity": "m s-1",
+					"northward_sea_water_velocity": "m s-1"
+				}
+			}
+		}
+	}
+}
