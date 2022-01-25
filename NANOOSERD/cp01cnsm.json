@@ -49,7 +49,7 @@
 					"z_coordinate": 4.3,
 					"decimation_factor": 10,
 					"variable_names": {
-						"shortwave_irradiance": "netsirr"
+						"shortwave_irradiance": "downwelling_shortwave_flux_in_air"
 					},
 					"variable_units": {
 						"shortwave_irradiance": "W m-2"
@@ -59,7 +59,7 @@
 					"z_coordinate": 4.3,
 					"decimation_factor": 10,
 					"variable_names": {
-						"longwave_irradiance": "netlirr"
+						"longwave_irradiance": "downwelling_longwave_flux_in_air"
 					},
 					"variable_units": {
 						"longwave_irradiance": "W m-2"
